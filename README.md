@@ -1,14 +1,21 @@
 # Unsupervised-Adaptation-for-Deep-Stereo
 Code for "Unsupervised Adaptation for Deep Stereo" - ICCV17
-This code is intended to be plugged into DispNet by Mayer et al., available at https://lmb.informatik.uni-freiburg.de/resources/binaries/dispflownet/dispflownet-release-1.2.tar.gz 
+This code is intended to be plugged into DispNet by Mayer et al., available at https://lmb.informatik.uni-freiburg.de/resources/binaries/dispflownet/dispflownet-release-1.2.tar.gz
+ 
 If you use this code, please cite both our paper: 
 
 @InProceedings{Tonioni_2017_ICCV,
+
 author = {Tonioni, Alessio and Poggi, Matteo and Mattoccia, Stefano and Di Stefano, Luigi},
+
 title = {Unsupervised Adaptation for Deep Stereo},
+
 booktitle = {The IEEE International Conference on Computer Vision (ICCV)},
+
 month = {Oct},
+
 year = {2017}
+
 }
 
 ## List of source files:
