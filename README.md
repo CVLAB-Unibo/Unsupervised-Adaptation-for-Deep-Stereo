@@ -28,7 +28,7 @@ Definition of the confidence data type CONF
 Tool to create dataset with stereo pairs, ground-truth disparity and confidence
 
 + **/dispflownet-adaptation-release/models/DispNet_Adaptation_kitti_train/**:
-Contains solver and training procedure used to adapt DispNetCorrD1 on KITTI dataset
+Contains solver and training procedure used to adapt DispNetCorrD1 on KITTI dataset + get_weights.sh to download a caffemodel weights file for DispNetCorr1D adpated on Kitti2012 using Census and CCNN for 120000 step
 
 + **/dispflownet-adaptation-release/models/DispNet_Adaptation_ShadowOnTruck/**:
 Contains get_weights.sh to download a caffemodel weights file for DispNetCorr1D adapted on the challenging sequence "ShadowOnTruck"
