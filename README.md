@@ -1,5 +1,8 @@
 # Unsupervised-Adaptation-for-Deep-Stereo
-Code for "Unsupervised Adaptation for Deep Stereo" - ICCV17 (http://openaccess.thecvf.com/content_ICCV_2017/papers/Tonioni_Unsupervised_Adaptation_for_ICCV_2017_paper.pdf)
+Official Code for "Unsupervised Adaptation for Deep Stereo" - ICCV17 (http://openaccess.thecvf.com/content_ICCV_2017/papers/Tonioni_Unsupervised_Adaptation_for_ICCV_2017_paper.pdf)
+
+This is the original caffe implementation used for the ICCV17 paper, since then we have also developed an easier to handle tensorflow implementation available here: https://github.com/AlessioTonioni/dispflownet-tf.
+(**DISCLAIMER**: the performance of the Dispnet trained on tensorlfow are slightly worse than those of the original one, act accordingly)
 
 This code is intended to be plugged into DispNet by Mayer et al., available at https://lmb.informatik.uni-freiburg.de/resources/binaries/dispflownet/dispflownet-release-1.2.tar.gz 
 If you use this code, please cite our paper: 
